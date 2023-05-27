@@ -34,7 +34,6 @@ export const categories = [
 ];
 
 export const demoThumbnailUrl ="../../public/images/YoutubeNewImg.avif";
- 
 export const demoChannelUrl = "/channel/@abaointokyo";
 export const demoVideoUrl = "/watch?v=jfKfPfyJRdk";
 export const demoChannelTitle = "Rasulwebs";
